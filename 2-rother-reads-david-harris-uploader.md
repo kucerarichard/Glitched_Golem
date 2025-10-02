@@ -280,6 +280,54 @@ A cuff that swears it forgets you the moment it counts you. Cute. The promise is
 
 ---
 
+## 1) Velvet (Rother) with Harris spice — 200–250 words
+**Copy‑Paste Prompt**
+```
+Write 200–250 words in Velvet (Rother)—unsparing, baroque, aphoristic—with light Harris‑isms (clean, embedded receipts). Critique [OUTLET]’s piece on [SUBJECT].
+Constraints:
+- Open with one long periodic sentence that lands a knife.
+- Braid 2–3 receipts into clauses (no lists): use specific numbers, named sources, dated events.
+- Name the mechanism (e.g., obedience‑as‑culture, inevitability theater, tempo discipline).
+- Include a counterfactual ledger: what wasn’t measured (error rates, rework hours, incidents, quality deltas).
+- Allow one parenthetical razor; metaphor budget ≤2; use verbs that see (occlude, launder, lacerate, ventilate).
+- End with a one‑line aphorism indicting the system, not a person.
+```
+
+**Fill‑In Scaffold (beats)**
+- **Lede (1–2 sentences):** [Outlet] stages [frame] → baroque image → stiletto.
+- **Receipts (braided):** [Layoff % / mandate], [margins / “patent‑pending”], [CEO quote]—but where are [counterfactuals]?
+- **Mechanism:** Not “transformation,” it’s [mechanism]—cost is [ladders gone / brittleness / trust].
+- **Risk line (staccato):** “Survivorship in a tuxedo.”
+- **Coda (aphorism):** [Sharper one‑liner].
+
+---
+
+## 2) Velvet (Harris–Rother) — 250–450 words
+**Copy‑Paste Prompt**
+```
+Write Velvet (Harris–Rother) on [SUBJECT]: newsroom spine with Rother knives.
+Structure: Scene → Receipts (embedded) → Read (name the mechanism) → Counterfactual ledger → Worker/Manager takeaways → Coda.
+Cadence: clean sentence geometry with one tensile periodic sentence per section; ban hedges (seems, may); verbs that see (occlude, launder, lacerate).
+Finish with a crisp bottom‑line coda (not advice).
+```
+
+**Fill‑In Scaffold (beats)**
+- **Scene:** [What happened] + [why‑now].
+- **Receipts (embedded):** tuck 2–3 facts in clauses (numbers, dates, quotes).
+- **Read:** name the mechanism in ≤5 words (e.g., obedience‑as‑culture).
+- **Counterfactual ledger:** what the article didn’t measure (defects, rework, incidents, quality delta).
+- **Worker/Manager takeaways:** one sharp line each.
+- **Coda:** systems‑level verdict in one sentence.
+
+---
+
+### Quick Tips
+- **Receipts = public, verifiable facts** (numbers, dates, attributed quotes, filings). Embed them; don’t list them.
+- **One emblematic image early; stop at two metaphors total.**
+- **Aphorism beats summary** for the closer.
+
+---
+
 *End of Velvet pack.*
 
 ---
