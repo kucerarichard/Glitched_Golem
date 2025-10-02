@@ -328,6 +328,174 @@ Finish with a crisp bottom‑line coda (not advice).
 
 ---
 
+## Appendix — Rother Lexicon Insert (Rich Diction & Receipts)
+*A drop‑in module for your Velvet presets. Paste below any prompt to expand vocabulary without losing precision.*
+
+### Operating stance
+- **Precision over ornament.** Choose words that *explain the mechanism*.
+- **Register contrast.** Anglo‑Saxon **verbs** (cut, blunt, scorch) + Latinate **nouns** (annuity, suasion, covenant) = torque.
+- **Rare‑term pacing.** 3–6 per 250 words, spaced; micro‑gloss the first instance (≤6 words) where helpful.
+- **Metaphor budget.** ≤2 per piece.
+- **Receipts braided.** Embed facts in clauses; avoid bulleted evidence.
+
+### Micro‑switches (copy into a prompt)
+`Lexicon::Tighten(4 rare terms; gloss inline)`  
+`Register::AngloVerb_LatinNoun()`  
+`Receipts::Braid(2 facts, 1 quote)`  
+`Hedges::Purge(except when paired with a metric)`
+
+### Power & Governance
+- **diktat** — top‑down decree (no process).
+- **praetorian** — elite enforcer class; guard‑rail with teeth.
+- **sinecure** — paid role with little work.
+- **suasion** — influence/pressure short of force.
+- **rent‑seeking** — extracting value without creating it.
+- **mandarin** — bureaucratic elite operator.
+- **chancery** — administrative/legal office; paperwork power.
+- **fiat** — order by authority, not argument.
+- **covenant** — binding agreement with terms.
+- **consent decree** — court‑enforced settlement.
+- **annuity** — steady payment stream (recurring revenue).
+- **carry** — investor’s share of upside.
+- **duration** — interest‑rate sensitivity (time risk).
+- **clawback** — reclaiming paid comp/benefits.
+
+**Use when:** naming who decides, who collects, who pays.
+
+### Failure & Fragility
+- **friable** — crumbles under stress.
+- **tendentious** — biased, agenda‑bent.
+- **operose** — laborious to the point of waste.
+- **ersatz** — imitation, inferior.
+- **brittle** — fails sharply, no grace.
+- **deranged** — disordered beyond tuning.
+- **profligate** — recklessly wasteful.
+- **parochial** — narrow, inward‑looking.
+- **venal** — corruptible for gain.
+- **derisory** — laughably small/insufficient.
+
+**Use when:** diagnosing why the shiny thing cracks.
+
+### Epistemic & Rhetorical
+- **catechetical** — didactic Q&A style.
+- **ex cathedra** — with institutional authority.
+- **apologia** — formal defense.
+- **catechresis** — strained/misapplied metaphor.
+- **palimpsest** — overwritten surface with traces left.
+- **glossolalic** — fluent but content‑empty.
+- **teleology** — end‑justified logic.
+- **hermeneutic** — interpretive frame.
+- **periodic sentence** — main clause held to the end.
+- **volta** — pivotal turn mid‑sentence/argument.
+
+**Use when:** exposing how language smuggles claims.
+
+### Techno‑Critic’s Toolkit
+- **demo theater** — staged performance of capability.
+- **inevitability theater** — rhetoric that makes refusal seem backward.
+- **compliance upholstery** — soft surfaces that hide hard control.
+- **telemetry** — instrumented observation.
+- **provenance** — source/chain of custody.
+- **gradient** — the learning signal that shapes a model.
+- **exfiltrate** — remove/steal data covertly.
+- **watermark** — mark outputs for traceability.
+- **entropy budget** — tolerated novelty/randomness.
+- **error budget** — allowable failure before stop.
+
+**Use when:** naming the levers behind the spectacle.
+
+### Additional color (use sparingly, gloss once)
+- **melopoeia** — musical quality of language.
+- **catenary** — chain‑curve; natural sag.
+- **deliquescence** — dissolving into liquid.
+- **commissar‑esque** — ideological enforcer vibe.
+- **sang‑froid** — cool composure under pressure.
+- **Agenbyte of Inwit** — pang of remorse.
+- **impasse‑partout** — a clever dead‑end (Rother pun).
+- **raffiné** — refined; **riff‑raffiné** (ironic coinage).
+- **perdurable** — enduring, long‑lived.
+- **ténèbres** — ceremonial darkness.
+- **risorgimento** — revival after decline.
+- **contretemps** — awkward clash.
+- **Arrabal‑esque** — surreal, confrontational.
+- **lucubrates** — studies/writes late into the night.
+- **façades** — ornamental fronts.
+- **sedimentalism** — layers that settle (punny).
+- **azimuth** — directional bearing, angle.
+- **“anus mundi”** — hellish place (use with caution; potentially offensive allusion).
+
+### Receipts (what counts)
+**Receipts = public, verifiable facts** that could change the conclusion if false: numbers (\~%, counts), dated events, attributed quotes, filings/changelogs, audited studies. **Braid** them into sentences:
+> After **“AI Mondays”** and the **~80% cut (Q1’23)**, the shop touts **~75% margins**, which—absent defect baselines—reads like survivorship dressed for press.
+
+### Syntax move (once per piece)
+**Periodic + volta → dagger:**
+> The memo accelerates everything—product cadence, headcount math, even apology cycles—**until** the unpriced costs surface (rework, incidents, attrition), where the tempo meets the bill.  
+> *Speed is cheap; recovery isn’t.*
+
+### Quality gate (ship checklist)
+- Rare terms spaced, glossed once.
+- One emblematic image early; ≤2 metaphors total.
+- Counterfactual ledger named (defects, rework, incidents, quality delta).
+- Aphoristic coda indicts systems, not people.
+
+---
+
+## Appendix — Before/After Rewrites Using the Rother Lexicon
+*Mini demos showing how to braid receipts, mix registers, and deploy rare terms with micro‑glosses. Copy and adapt.*
+
+### 1) AI mandate & layoffs
+**Before (plain):**  
+We launched AI Mondays in Q1 2023. Some teams resisted. We later cut ~80% of staff. Two years on, margins are ~75% and we filed several patents.
+
+**After (Rother + Harris receipts):**  
+After **“AI Mondays” (Q1’23)** and the **~80% cut**, leadership touts **~75% margins** and “**patent‑pending**” launches—compliance recast as culture. The memo is a **diktat** (top‑down decree), not a syllabus; **receipts** glow while the **counterfactual ledger**—defect rates, rework, incidents—stays dark. *Survivorship in a tuxedo.*
+
+### 2) Data‑center grid impact
+**Before (plain):**  
+New data centers will increase electricity use. We signed PPAs and will monitor usage.
+
+**After:**  
+The campus arrives with **firm load** that doesn’t blink; PPAs paper the vow while the substation does the math. Call it **inevitability theater**—a ceremony where “green” is a promise and **deliverability** the only sacrament. Post the **error budget** for outages and a **watermark** on every megawatt used; anything less is piety.
+
+### 3) AI tab product launch
+**Before (plain):**  
+We added an AI tab to help users draft content. It should improve productivity.
+
+**After:**  
+A shiny **AI tab** hums like help, then invoices like habit: **telemetry** records the clicks, **provenance** goes unspoken, and the demo—impeccable **demo theater**—never answers who pays when the fluency is **ersatz** (inferior imitation). Productivity that can’t survive an audit is melopoeia—music, not proof.
+
+### 4) Safety/quality assurance
+**Before (plain):**  
+The model sometimes makes mistakes. We will add human review.
+
+**After:**  
+Fluency can turn **glossolalic**—sound without sense—so put money where the harm lives: staff the **praetorian** layer (enforcers with veto), cap novelty with an **entropy budget**, and publish **time‑to‑escalate** next to wins. Without that ledger, “human‑in‑the‑loop” is **compliance upholstery**—soft surfaces over hard control.
+
+### 5) “Efficiency” as euphemism
+**Before (plain):**  
+We restructured to be more efficient; some roles were eliminated.
+
+**After:**  
+Efficiency, in this register, is **suasion** (pressure) wearing a smile: ladders **friable** underfoot, senior review thinned to a **sinecure** (paid in name only), and quality amortized into tomorrow’s rework. If savings lack a **counterfactual**, they’re not thrift—they’re **rent‑seeking**.
+
+### 6) Research claim
+**Before (plain):**  
+Our study shows the feature is accurate.
+
+**After:**  
+Accuracy by whose **hermeneutic** (interpretive frame)? Publish the **provenance** of data, the **gradient** tuning, and the **confidence bands**; otherwise the paper is a **palimpsest**—layers of claims with the methods scraped thin.
+
+---
+
+### How to apply in your own drafts
+- **Braid receipts** into clauses (numbers, dates, quotes).  
+- Use **Anglo‑Saxon verbs** (cut, blunt, scorch) to drive; pair with **Latinate nouns** (annuity, suasion, covenant) for torque.  
+- **Gloss rare terms** once: *praetorian — enforcement layer with veto*.  
+- Keep the **metaphor budget ≤2** and end with a clean **aphorism**.
+
+---
+
 *End of Velvet pack.*
 
 ---
