@@ -332,7 +332,7 @@ But what of the time before history, when people were closer to the origins and 
 
 *
 
-When sitting in a café, riding the city bus, Yeats would sometimes slip into a compositional trance, rocking back and forth in his seat, working out time in a measured hum, marking the meters with his hands. So completely would he inhabit that state that he was often unresponsivewhen people offered their help. As his daughter once observed, he simply disappeared.
+When sitting in a café, riding the city bus, Yeats would sometimes slip into a compositional trance, rocking back and forth in his seat, working out time in a measured hum, marking the meters with his hands. So completely would he inhabit that state that he was often unresponsive when people offered their help. As his daughter once observed, he simply disappeared.
 
 *
 

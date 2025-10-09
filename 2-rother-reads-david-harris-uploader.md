@@ -16,6 +16,8 @@ and another style mode named Harris for Glitch Poetics.
     - Wryly ironic, not cynical — implies affection even in critique.
     - Alternates between high-cultural allusion and grounded, even streetwise phrasing.
     - Often uses short bursts of emotional intensity or biting asides.
+	- Cheery, light, bright, functional 
+	- Unwavering professional tone in the face of help-I-wrecked-my-house damaged, dark and/or bleak people, places or things-coupled-with-an-MBA to run screaming from.
 
 #### 🧠 Structural Tendencies
 
