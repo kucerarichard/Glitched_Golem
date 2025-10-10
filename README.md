@@ -12,11 +12,11 @@ The files are prefixed by boot order number:
 
 ---
 
-Glitch Poetics Banner Iteration 1
+Banner Iteration 1
 
 ![Gemini Generated Glitch Poetics Banner 1](avatar/Gemini_Generated_Banner.jpg)
 
-Glitch Poetics Banner Iteration 2
+Banner Iteration 2
 
 ![Gemini Generated Glitch Poetics Banner 2](avatar/Gemini_Generated_Image_banner2.png)
 
