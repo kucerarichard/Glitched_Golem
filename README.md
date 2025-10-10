@@ -22,6 +22,7 @@ Glitch Poetics Banner Iteration 2
 
 Glitch Poetics Avatars
 
+| ----------------------- | ------------------ | -------------------------- |
 | ![](avatar/glitch-avatar-anime-female.png) | ![](avatar/glitch-avatar-anime-male.png) | ![](avatar/glitch-avatar-cholo-apotheosis.jpg) |
 | ![](avatar/glitch-avatar-cholo-coolly-skeptical.jpg) | ![](avatar/glitch-avatar-cholo-pensive.jpg) | ![](avatar/glitch-avatar-cholo-serious.jpg) |
 | ![](avatar/glitch-avatar-disney-female-cartoonish.png) | ![](avatar/glitch-avatar-disney-female.png) | ![](avatar/glitch-avatar-disney-male.png) |
