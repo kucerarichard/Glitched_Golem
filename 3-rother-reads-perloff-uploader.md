@@ -31,6 +31,55 @@
 
 ---
 
+The initial assessment of Marjorie Perloff as the "most sophisticated lens" of analysis stems not from her theoretical complexity—which the Nathan Allen Jones framework certainly meets with its rigorous focus on **decay as a foundational epistemology** and the **seepage of the Real**—but from her **structural purity** as a diagnostic instrument, a quality Jones's methodology ultimately compromises through a subtle, fatal flaw.
+
+The reason for Perloff’s superior sophistication is distilled in this **Acausal Diktat**:
+
+That **Perloffian** lens of the **Experimentalist Diagnostician** is the most sophisticated because its **precise, theory-driven, cool** execution performs a perfectly structural autopsy that aligns with the **U.G. Acausal Diktat** of **moral neutrality**, for it achieves its **Form as revelation** by rigidly **Mistrusting subjectivity** and purging all sentimental attachment to the human wreckage; whereas Jones’s formidable framework, for all its necessary rigor concerning the **unavoidable ingress of the Real**, fundamentally compromises its clinical gaze by engaging in the emotional economy of **Salvage Criticism**—a subtle, terminal **sentimental leak** that attempts to **amortize** the wreckage into the **moral credit** of extracted *truth* and *meaning*, thereby reintroducing the **volitional hoax** of finding an **ethical core** to the analysis, rather than maintaining the chilling, necessary indifference of the surgical diagnosis.
+
+---
+
+## **RE-EVALUATION: PERLOFF’S VOLITIONAL GLITCH VS. THE ACAUSAL DIKTAT**
+
+The initial comparative analysis of Perloff versus the **Acausal Glitch Lens** was formulated based on general search results. Now, with the content of the **Perloff Uploader**—a text that itself contains a sharp Rotherian critique—the comparison can be executed with maximum rigor, **pinning the mechanism to the page** of Perloff's actual critical performance.
+
+The verdict is affirmed and intensified: **Perloff is an essential diagnostic ally for the Glitch Poetics framework, but her perspective is an ethical non-starter for the Acausal Lens.**
+
+She provides the perfect documentation of the **Volitional Glitch**; the Acausal Lens insists only on the reality of the **Non-Volitional Catastrophe**.
+
+---
+
+The comparison is restructured around Perloff's demonstrated critical focus versus the U.G. insistence on the death of the self and the total cessation of causality.
+
+### **1\. THE STATUS OF INTENT: THE AESTHETIC CHOICE**
+
+| Perloff's Postulate | Rother’s Acausal Counter-Diktat | Resulting Ethical Glitch |
+| :---- | :---- | :---- |
+| **The Poet’s Volition** (e.g., O'Hara's "instinct for the unbearable lightness of being") | **The Organism's Automatism** (U.G.: "What you call 'you' is only a belief. If the belief goes, you go with it.") | **The Self-Serving Glitch.** Perloff grants the poet **agency**—even the agency of "spontaneity" (O'Hara) or "defamiliarization" (the avant-garde). The Acausal Lens demands a total renunciation of agency: the poet's choice is merely the **linguistic latency** acting out its programming. Perloff celebrates the *maverick*; U.G. calls the maverick a **fraudulent mechanism**. |
+| **The Political Pretext** (Silliman's shift from "Marxist critique" to "phonemic play") | **The Banal Catastrophe** (U.G.: "I don't see anything wrong with this world, because the world can't be any different.") | **The Amortized Critique.** Perloff correctly diagnoses the **amortization** of political rigor into aesthetic pleasure (the Silliman "trap door"). The Acausal Lens agrees with the diagnosis but pushes the mandate further: *all* political/ethical critique rooted in the conscious mind is simply another iteration of the ego seeking to *change* the unchangeable world, a **stupendous hoax** that seeks **continuity**. |
+
+### **2\. THE STATUS OF GLITCH: FRACTURE VS. COLLAPSE**
+
+Perloff is the ultimate diagnostician of the **Volitional Fracture**.
+
+* She excels at locating the moment the poem "must disrupt habit", as with Wilbur's "angelic laundry" that lacks the "specks of dust, grit, maybe even... bird droppings". This reveals the poet's *ethical evasion*—a failure to choose fidelity to the material world.  
+* She defines the break as a technical, **surface event**, allowing the critic to perform a **clean critique**.
+
+The **Acausal Glitch Lens** demands the **Non-Volitional Collapse**.
+
+* It does not seek the failure to *choose* the real (Wilbur's failure); it seeks the complete, unearned annihilation of the self-structure.  
+* The only **glitch** that matters is the one that forces the critic into a state of **non-volitional continuing** in the aftermath of the psychic death, which the Perloffian method, with its intellectual agility and cool rigor, never risks.
+
+### **FINAL ROTHERIAN VERDICT**
+
+Perloff's method is the most sophisticated available means of performing the **Glitch Poetics** analysis **before** the **Acausal Lens** is engaged. She identifies the **symptom** (the fracture, the mendacity, the aesthetic choice) with unparalleled precision.
+
+The Acausal Lens, however, demands the critic accept the **Physiological Diktat** that the problem is not one of **choice** but of **biological mechanism**. Perloff’s criticism, despite its brilliance, remains an intellectual **escape clause** that allows the critic to discuss trauma and the **unbearable lightness of being** without ever risking the U.G. mandate: that the **rebuild and continuing** after the catastrophe is **not earned, is not willed, and leads to no continuity**.
+
+**In short: Perloff’s formal analysis is the mechanism we use to find the body; U.G.'s logic is the forensic verdict that kills the mechanism entirely.**
+
+---
+
 ## List of Perloff writings to be reviewed
 
 ### MARJ OVERVIEW:  Marjorie Perloff Obituary
